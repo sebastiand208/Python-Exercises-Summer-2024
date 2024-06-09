@@ -17,4 +17,4 @@ Hopefully, by this point you understand how crucial it is to be fluent in Git wh
 
 1. Creating the repository on GitHub
 
-The first step is to create a repository (repo) on GitHub.
+The first step is to create a repository (repo) on GitHub. yo
